@@ -1,0 +1,10 @@
+C:\Users\Zakaria Sahki\source\repos\To Do List\bin\Release\To Do List.exe.config
+C:\Users\Zakaria Sahki\source\repos\To Do List\bin\Release\To Do List.exe
+C:\Users\Zakaria Sahki\source\repos\To Do List\bin\Release\To Do List.pdb
+C:\Users\Zakaria Sahki\source\repos\To Do List\obj\Release\To Do List.csproj.AssemblyReference.cache
+C:\Users\Zakaria Sahki\source\repos\To Do List\obj\Release\To_Do_List.Form1.resources
+C:\Users\Zakaria Sahki\source\repos\To Do List\obj\Release\To_Do_List.Properties.Resources.resources
+C:\Users\Zakaria Sahki\source\repos\To Do List\obj\Release\To Do List.csproj.GenerateResource.cache
+C:\Users\Zakaria Sahki\source\repos\To Do List\obj\Release\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria Sahki\source\repos\To Do List\obj\Release\To Do List.exe
+C:\Users\Zakaria Sahki\source\repos\To Do List\obj\Release\To Do List.pdb
